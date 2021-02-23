@@ -1,0 +1,49 @@
+*{
+	margin:0%;
+	padding:0%;
+}
+body,html{
+	
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar .text-light {
+    color: #ffc107!important;
+}
+
+#banner{
+	background-image: linear-gradient(red, yellow, blue);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover;
+	position: relative;
+	margin-top: 0px;
+	width: 100%;
+	height:200px;
+
+}
+
+.bank{
+	text-align:center;
+	position: absolute;
+	top:50%;
+	left:32%;
+  
+}
+
+ /* footerSection */
+  #footer {
+    background: linear-gradient(-45deg, #842029, 33.33%, #842029 33.33%, #6f5254 66.66%, #e14652 66.66%), linear-gradient(45deg, transparent, 33.33%,#af797e 33.33%, #d9a187 66.66%, #e14552 66.66%);
+    color: #fff;
+    text-align: center;
+  }
+  
+  .social-icon {
+    margin: 20px 10px;
+  }
+
+  .card{
+  	border: none;
+  }
+  
